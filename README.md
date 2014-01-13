@@ -1,4 +1,4 @@
-spacegrey-iterm
+[Spacegray](https://github.com/kkga/spacegray) for [iTerm](http://www.iterm2.com/)
 ===============
 
-iTerm Spacegray
+![](http://i.imgur.com/btWCAuw.png)
